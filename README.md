@@ -5,7 +5,8 @@ In this repository **Alexa** is a low-level **AI** project which makes :
 * Search videos on YouTube.
 * Tell you time.
 * Tell you some 5 line facts from Wikipedia. <br>
-_**It also says 'i am alright how are you my boss' When you ask 'how are you alexa'. If you say 'i am fine' it replies that 'ok how can i help you'**_
+_**It also says 'i am alright how are you my boss' When you ask 'how are you alexa'. If you say 'i am fine' it replies that 'ok how can i help you'**_ <br>
+Always use the word _**"alexa"**_ before you speak to it
 
 ## Requirements 
 To use this _**Alexa**_ you need to install[ _**Python**_](https://www.python.org/). If you don't have _**Python**_ in your computer click [_**Here To Download**_](https://www.python.org/downloads/).<br>
